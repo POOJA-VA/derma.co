@@ -1,0 +1,145 @@
+.start {
+    text-align: center;
+    background-color: rgb(186, 218, 237);
+    padding: 10px;
+    font-weight: bold;
+}
+.term1 {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(241, 188, 192);
+}
+.term1 .button {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.term2 {
+    text-align: center;
+    padding: 20px;
+    border-color: brown;
+}
+.term2 img {
+    max-width: 100%;
+}
+.box {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(155, 226, 203);
+}
+.box1{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    max-width: 100%;
+    text-align: center;
+    background-color: peachpuff;
+
+}
+.box2{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    max-width: 100%;
+    text-align: center;
+    background-color: peachpuff;
+
+} 
+.box3 {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    max-width: 100%;
+    text-align: center;
+    background-color: peachpuff;
+}
+.box4{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    max-width: 100%;
+    text-align: center;
+    background-color: peachpuff;
+}
+.box5{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    max-width: 100%;
+    text-align: center;
+    background-color: peachpuff;
+} 
+.box6{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    max-width: 100%;
+    text-align: center;
+    background-color: peachpuff;
+}
+.rev {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(237, 237, 136);
+}
+.rev {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(168, 168, 234);
+}
+.rev1{
+    color: darkgoldenrod;
+}
+.rev2{
+    color: darkgoldenrod;
+}
+.rev3{
+    color: darkgoldenrod;
+}
+.rev1 img{
+    max-width: 100px; 
+    max-height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+} 
+.rev2 img{
+    max-width: 100px; 
+    max-height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+} 
+.rev3 img {
+    max-width: 100px; 
+    max-height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.end {
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(190, 248, 204);
+}
+.end2{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    max-width: 100%;
+    text-align: center;
+    background-color: rgb(152, 227, 143);
+}
+.end3{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    max-width: 100%;
+    text-align: center;
+    background-color: rgb(152, 227, 143);
+}
+.end4{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    max-width: 100%;
+    text-align: center;
+    background-color: rgb(152, 227, 143);
+}
